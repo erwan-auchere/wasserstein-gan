@@ -1,1 +1,1 @@
-# wasserstein-gan
+# Does Wasserstein-GAN approximate Wasserstein distances?
